@@ -1626,7 +1626,7 @@ st.markdown("""
     <h3 style="margin-bottom: 1rem;">📊 Calculadora de Cálculo Multivariable</h3>
     <p style="margin-bottom: 0.5rem;">Desarrollado con Streamlit, SymPy, NumPy, Plotly y SciPy</p>
     <p style="margin-bottom: 0; opacity: 0.9;">
-        <strong>Miguel Mendoza</strong> | miguel.mendozaj@campusucc.edu.co
+        <strong>Miguel Mendoza, Juan Pablo Gallardo, Sebastian Lopez</strong> | 
     </p>
     <p style="margin-top: 1rem; font-size: 0.9rem; opacity: 0.8;">
         Universidad Cooperativa de Colombia © 2024
